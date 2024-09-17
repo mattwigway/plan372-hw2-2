@@ -1,0 +1,14 @@
+---
+title: "PLAN 372 HW 2"
+author: "Matt Bhagat-Conway"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(lubridate)
+
+
+```
+
+Load the data from CSV.
